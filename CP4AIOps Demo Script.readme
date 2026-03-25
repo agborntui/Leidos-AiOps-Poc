@@ -1,0 +1,52 @@
+## CP4AIOps Demo Script Outline: Network Event Correlation
+
+## 1. Intro / Business Value
+Goal: Show how CP4AIOps reduces downtime and operational effort by automatically correlating network events with business impact.
+Business context: A web application/server is critical for customer transactions. Network issues can cause downtime and revenue loss.
+Key point: CP4AIOps doesn’t just alert — it correlates events to find root cause and shows impact on topology.
+
+## 2. Setup / Environment Overview
+Topology:
+5 routers (Router A-E)
+Each router connected to a central server (Server 1)
+Network monitoring feeds into CP4AIOps
+Event types:
+Link UP
+Link DOWN
+Visual reference: Topology diagram in CP4AIOps showing routers + server connections.
+
+## 3. Event Injection / Trigger Scenario
+Step 1: Simulate a network issue:
+Bring Router B’s link down.
+Optionally, bring Router C’s link down to show multiple event correlation.
+Step 2: CP4AIOps receives events from monitoring tools.
+
+## 4. Automated Event Correlation
+CP4AIOps actions:
+Detect multiple link DOWN events.
+Correlate them with affected server (Server 1) and dependent services.
+Group related events into a single incident.
+Value highlight: Operators see one incident instead of 5 separate alerts, saving time and reducing noise.
+
+
+##5. Topology Visualization
+Step 1: Open topology view.
+Step 2: Show affected routers highlighted in red.
+Step 3: Show impacted server in yellow or orange.
+Step 4: Optionally, show how CP4AIOps predicts potential downstream service impact.
+
+##6. Root Cause Identification
+CP4AIOps uses event correlation + historical patterns to:
+Identify Router B (or Router C) as the root cause.
+Suggest potential remediation steps.
+Value highlight: Faster resolution, fewer manual investigations.
+
+##7. Resolution / Recovery
+Step 1: Simulate bringing the link back UP.
+Step 2: CP4AIOps auto-updates the incident status.
+Step 3: Topology returns to normal state; incident closed automatically.
+
+## 8. Key Demo Takeaways
+Reduced noise: Correlation groups multiple alerts into actionable incidents.
+Faster triage: Operators see the root cause immediately.
+Business impact awareness: Topology view shows exactly what services are affected.
