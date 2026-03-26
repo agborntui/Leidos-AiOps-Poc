@@ -1,0 +1,530 @@
+[
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.231",
+      "hostname": "10.1.44.231",
+      "type": "Router",
+      "ipaddress": "10.1.44.231",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.231",
+    "occurrenceTime": "2026-01-16T20:45:00.139Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.231",
+      "hostname": "10.1.44.231",
+      "type": "Router",
+      "ipaddress": "10.1.44.231",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.231",
+    "occurrenceTime": "2026-01-16T20:45:00.139Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.232",
+      "hostname": "10.1.44.232",
+      "type": "Router",
+      "ipaddress": "10.1.44.232",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.232",
+    "occurrenceTime": "2026-01-16T20:46:45.274Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.234",
+      "hostname": "10.1.44.234",
+      "type": "Router",
+      "ipaddress": "10.1.44.234",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.234",
+    "occurrenceTime": "2026-01-16T20:46:49.406Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.232",
+      "hostname": "10.1.44.232",
+      "type": "Router",
+      "ipaddress": "10.1.44.232",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.232",
+    "occurrenceTime": "2026-01-16T20:46:45.274Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.234",
+      "hostname": "10.1.44.234",
+      "type": "Router",
+      "ipaddress": "10.1.44.234",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.234",
+    "occurrenceTime": "2026-01-16T20:46:49.406Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.235",
+      "hostname": "10.1.44.235",
+      "type": "Router",
+      "ipaddress": "10.1.44.235",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.235",
+    "occurrenceTime": "2026-01-16T20:46:52.693Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.239.26",
+      "hostname": "10.1.239.26",
+      "type": "Router",
+      "ipaddress": "10.1.239.26",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.239.26",
+    "occurrenceTime": "2026-01-16T20:46:56.511Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.233",
+      "hostname": "10.1.44.233",
+      "type": "Router",
+      "ipaddress": "10.1.44.233",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.233",
+    "occurrenceTime": "2026-01-16T20:47:00.810Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.235",
+      "hostname": "10.1.44.235",
+      "type": "Router",
+      "ipaddress": "10.1.44.235",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.235",
+    "occurrenceTime": "2026-01-16T20:46:52.693Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.239.26",
+      "hostname": "10.1.239.26",
+      "type": "Router",
+      "ipaddress": "10.1.239.26",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.239.26",
+    "occurrenceTime": "2026-01-16T20:46:56.511Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.233",
+      "hostname": "10.1.44.233",
+      "type": "Router",
+      "ipaddress": "10.1.44.233",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.233",
+    "occurrenceTime": "2026-01-16T20:47:00.810Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.231",
+      "hostname": "10.1.44.231",
+      "type": "Router",
+      "ipaddress": "10.1.44.231",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.231",
+    "occurrenceTime": "2026-01-16T20:48:23.039Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.232",
+      "hostname": "10.1.44.232",
+      "type": "Router",
+      "ipaddress": "10.1.44.232",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.232",
+    "occurrenceTime": "2026-01-16T20:48:26.554Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.234",
+      "hostname": "10.1.44.234",
+      "type": "Router",
+      "ipaddress": "10.1.44.234",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.234",
+    "occurrenceTime": "2026-01-16T20:48:29.722Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.231",
+      "hostname": "10.1.44.231",
+      "type": "Router",
+      "ipaddress": "10.1.44.231",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.231",
+    "occurrenceTime": "2026-01-16T20:48:23.039Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.232",
+      "hostname": "10.1.44.232",
+      "type": "Router",
+      "ipaddress": "10.1.44.232",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.232",
+    "occurrenceTime": "2026-01-16T20:48:26.554Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.234",
+      "hostname": "10.1.44.234",
+      "type": "Router",
+      "ipaddress": "10.1.44.234",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.234",
+    "occurrenceTime": "2026-01-16T20:48:29.722Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.235",
+      "hostname": "10.1.44.235",
+      "type": "Router",
+      "ipaddress": "10.1.44.235",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.235",
+    "occurrenceTime": "2026-01-16T20:48:32.602Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.239.26",
+      "hostname": "10.1.239.26",
+      "type": "Router",
+      "ipaddress": "10.1.239.26",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.239.26",
+    "occurrenceTime": "2026-01-16T20:48:34.976Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.233",
+      "hostname": "10.1.44.233",
+      "type": "Router",
+      "ipaddress": "10.1.44.233",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.233",
+    "occurrenceTime": "2026-01-16T20:48:37.970Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.235",
+      "hostname": "10.1.44.235",
+      "type": "Router",
+      "ipaddress": "10.1.44.235",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.235",
+    "occurrenceTime": "2026-01-16T20:48:32.602Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.239.26",
+      "hostname": "10.1.239.26",
+      "type": "Router",
+      "ipaddress": "10.1.239.26",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.239.26",
+    "occurrenceTime": "2026-01-16T20:48:34.976Z",
+    "expirySeconds": 0
+  },
+  {
+    "sender": {
+      "service": "telegraf",
+      "name": "ec-net-telegraf-01",
+      "type": "snmp_trap"
+    },
+    "resource": {
+      "name": "10.1.44.233",
+      "hostname": "10.1.44.233",
+      "type": "Router",
+      "ipaddress": "10.1.44.233",
+      "location": "Interface"
+    },
+    "type": {
+      "classification": "Service",
+      "eventType": "problem"
+    },
+    "severity": 6,
+    "summary": "linkDown Ip Interface 10.1.44.233",
+    "occurrenceTime": "2026-01-16T20:48:37.970Z",
+    "expirySeconds": 0
+  }
+]
